@@ -13,3 +13,4 @@ The Asus UX305FA comes with a Micron 256GB M.2(NGFF) SSD (SATA, not NVMe !).
 Doesn't seem possible.
 ## Battery replacement
 Asus UX305FA comes with an 11.4v, 45wh Li-polymer battery, Asus part number: C31N1411.
+## 3 ports USB 3.0
